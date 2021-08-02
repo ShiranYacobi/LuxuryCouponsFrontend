@@ -1,6 +1,7 @@
 # Luxury Coupons Web - Client Side 💻
 
-Luxury Coupons web using React library, Redux and MySQL DB./
+Luxury Coupons web using React library, Redux and MySQL DB.
+
 It's a coupons management system, which allows companies to produce coupons,
 as part of advertising campaigns, and register customers can purchase them.
 Access to the system is divided into three types of clients:
