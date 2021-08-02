@@ -23,7 +23,7 @@ go to LuxuryCouponsBackend and run the server side also.
 # Run Scripts 👩🏻‍💻
 For cheking the program - Download to zip, export the zip and follow the instructions:
 Click File -> Open folder -> choose the project folder -> Select folder.
-Click Terminal -> New Terminal:\
+Click Terminal -> New Terminal:
 
 ### `cd LuxuryCouponsWeb-main`
 ### `npm install`
