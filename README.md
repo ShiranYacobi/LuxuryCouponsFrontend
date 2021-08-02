@@ -23,7 +23,7 @@ go to LuxuryCouponsBackend and run the server side also.
 # Run Scripts 👩🏻‍💻
 For cheking the program - Download to zip, export the zip and follow the instructions:\
 Click File -> Open folder -> choose the project folder -> Select folder.\
-Click Terminal -> New Terminal:\
+Click Terminal -> New Terminal:
 
 ### `cd LuxuryCouponsWeb-main`
 ### `npm install`
@@ -33,10 +33,10 @@ and then:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open http://localhost:3000 to view it in the browser.\
+Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.\
-You will also see any lint errors in the console.\
+You will also see any lint errors in the console.
 
 #Remarks 📝
 I've build this project with 2 programmers as part of the final project in our course - Java Full Stack..\
